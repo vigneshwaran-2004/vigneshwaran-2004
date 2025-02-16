@@ -73,7 +73,7 @@
   <a href="https://www.linkedin.com/in/vigneshwaran-r">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn"  />
   </a>
-  <a href="https://www.instagram.com/.vi_ke_/">
+  <a href="https://www.instagram.com/_.vi_ke_/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram"  />
   </a>
 </div>
