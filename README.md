@@ -51,13 +51,13 @@
   <img width="12" />
   <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" height="40" alt="Hardhat" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Truffle-logo.png" height="40" alt="Truffle" />
+  <img src="" height="40" alt="Truffle" />
   <img width="12" />
   <img src="https://spline.design/_assets/meta-image.png" height="40" alt="Spline" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Surge-logo.svg" height="40" alt="Surge" />
   <img width="12" />
-  <img src="https://github.com/vigneshwaran-2004/vigneshwaran-2004/blob/main/ganache.jpg" height="40" alt="Ganache" />
+  <img src="https://github.com/vigneshwaran-2004/vigneshwaran-2004/blob/main/ganache_transparent.png" height="40" alt="Ganache" />
 </div>
 
 ###
