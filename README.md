@@ -87,12 +87,4 @@
 
 ###
 
-<h2 align="left">Snake Game 🐍</h2>
 
-###
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/vigneshwaran-2004/vigneshwaran-2004/output/snake.svg" alt="Snake animation" />
-</p>
-
-###
