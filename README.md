@@ -57,7 +57,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Surge-logo.svg" height="40" alt="Surge" />
   <img width="12" />
-  <img src="https://github.com/vigneshwaran-2004/vigneshwaran-2004/blob/main/ganache_transparent.png" height="40" alt="Ganache" />
+  <img src="https://github.com/vigneshwaran-2004/vigneshwaran-2004/blob/main/ganache_transparent.png" height="50" alt="Ganache" />
 </div>
 
 ###
