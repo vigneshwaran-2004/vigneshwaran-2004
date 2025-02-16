@@ -49,9 +49,9 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" height="40" alt="Ethereum Remix" />
   <img width="12" />
-  <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" height="40" alt="Hardhat" />
+  <img src="https://github.com/vigneshwaran-2004/vigneshwaran-2004/blob/main/hardhat_transparent.png" height="40" alt="Hardhat" />
   <img width="12" />
-  <img src="" height="40" alt="Truffle" />
+  <img src="https://github.com/vigneshwaran-2004/vigneshwaran-2004/blob/main/truffle_transparent.png" height="40" alt="Truffle" />
   <img width="12" />
   <img src="https://spline.design/_assets/meta-image.png" height="40" alt="Spline" />
   <img width="12" />
