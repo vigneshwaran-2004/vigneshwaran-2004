@@ -70,7 +70,7 @@
   <a href="mailto:jagavike65@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"  />
   </a>
-  <a href="https://www.linkedin.com/in/vigneshwaran-r">
+  <a href="https://www.linkedin.com/in/vigneshwaran005?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn"  />
   </a>
   <a href="https://www.instagram.com/_.vi_ke_/">
